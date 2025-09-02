@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0:001f3f,20:003f7f,40:005fbf,60:007bff,80:339CFF,100:66B2FF" alt="Welcome Banner" />
 </p>
 
-
-
-
-
-
 <div align="center">
 
 # Hi, I'm Mutahhar Ahmad  
