@@ -89,15 +89,15 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 </p>
 
 ---
-
+<!--
 > “Success is not final, failure is not fatal: It is the courage to continue that counts.”  
 > — Winston S. Churchill
 
----
+-->
 
 <!-- Footer: Minimal & Clean -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Designed%20with-%E2%9D%A4%20in%20Pakistan-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Designed%20with-%E2%9D%A4%20by%20Pakistan-blue?style=for-the-badge&logo=github&logoColor=white" />
   <br/>
   <sub>© 2025 Mutahhar Ahmad — All rights reserved.</sub>
 </p>
