@@ -4,8 +4,9 @@
 </p>
 
 <div align="center">
-
-# Hi, I'm Mutahhar Ahmad  
+<h1 align="center">
+<b>Hi , I'm Mutahhar Ahmad </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ 
 **BS Data Science Student | PUAN Member (U.S. Access Alumnus) | Turning Data into Visual Impact**  
 
 Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or Anything Else.                 
@@ -18,9 +19,9 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 
 ## 📑 Table of Contents
 - [About Me](#about-me)
-- [Skills](#skills)
+- [Skills](#️-skills)
 - [My GitHub Repositories](#-my-github-repositories)
-- [GitHub Stats](#github-stats)
+- [GitHub Stats](#-github-stats)
 - [My Goals](#-my-goals)
 - [Projects & Experience](#-projects--experience)
 - [Let's Connect](#-lets-connect)
@@ -36,13 +37,6 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 - 🎨 Data Science enthusiast who loves turning raw data into meaningful insights
 - 🧠 Always learning something new in tech and exploring innovative solutions
 - 🎯 **Goal:** To become a skilled Data Scientist and contribute to impactful projects that solve real-world problems
-
----
-
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+in+the+Making;Visualizing+Insights+from+Data;Always+Learning+New+Things;&center=true&width=500&height=45&color=00BFFF&pause=1000" alt="Typing SVG">
-</p>
 
 ---
 
@@ -67,11 +61,15 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge&logo=chart-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ### Design Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  
 </p>
 
 ---
@@ -80,16 +78,13 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 
 Here are some of my notable projects:
 
-### 1. [Repository Name 1](#)
-> A brief description of your first repository. For example: "A Python-based data analysis project that visualizes COVID-19 trends."
+### 1. [GPA & CGPA Calculator](https://mutahharbhutta.github.io/pucit-cgpa-calculator/)
+> "The GPA & CGPA Calculator is a lightweight, responsive, and interactive web application for students.
+It helps calculate Semester GPA and Cumulative GPA (CGPA) quickly and accurately while offering a fun, personalized, and visually appealing experience."
 
-### 2. [Repository Name 2](#)
-> A brief description of your second repository. For example: "A web application built with HTML, CSS, and JavaScript for task management."
-
-### 3. [Repository Name 3](#)
-> A brief description of your third repository. For example: "Power BI dashboard analyzing sales data with interactive visualizations."
-
-*Note: Replace the links above with your actual repository URLs and add real descriptions.*
+### 2. [WorkBurst](https://mutahharbhutta.github.io/WorkBurst)
+> "A comprehensive task management system designed for students to track assignments, quizzes, and lab work with advanced features including weekly grouping, multiple themes, timetable integration, and notification support."
+> 
 
 ---
 
@@ -112,7 +107,7 @@ Here are some of my notable projects:
 - [ ] Build 10+ Data Science projects
 - [ ] Contribute to open-source projects
 - [ ] Learn Machine Learning and AI
-- [ ] Get internship in Data Science field
+- [x] Get internship in Data Science field
 - [ ] Master advanced analytics techniques
 
 ---
@@ -123,8 +118,7 @@ Here are some of my notable projects:
 |-------------|-------------|--------------|------|
 | **Data Visualization Dashboard** | Created interactive dashboards for business analytics | Power BI, Excel | 2024 |
 | **PUAN Member** | U.S. Access Program Alumnus - Leadership & Community Service | Leadership, Communication | 2023-2024 |
-| **Web Development Projects** | Built responsive websites and web applications | HTML, CSS, JavaScript | 2023 |
-| **Programming Fundamentals** | Strong foundation in C/C++ and Python programming | C, C++, Python | 2022-2024 |
+| **Web Development Projects** | Built responsive websites and web applications | HTML, CSS, JavaScript | 2025 |
 
 ---
 
@@ -138,10 +132,7 @@ Here are some of my notable projects:
 
 ## 💭 Quote That Inspires Me:
 
-> "The goal is to turn data into information, and information into insight."  
-> — Carly Fiorina
-
-> "Data is the new oil. It's valuable, but if unrefined it cannot really be used."  
+> *"Data is the new oil. It's valuable, but if unrefined it cannot really be used."*
 > — Clive Humby
 
 ---
@@ -163,7 +154,5 @@ Here are some of my notable projects:
 
 <!-- Footer: Minimal & Clean -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Designed%20with-%E2%9D%A4%20by%20Pakistan-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <br/>
   <sub>© 2025 Mutahhar Ahmad — All rights reserved.</sub>
 </p>
