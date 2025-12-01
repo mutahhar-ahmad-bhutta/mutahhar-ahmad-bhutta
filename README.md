@@ -153,6 +153,4 @@ It helps calculate Semester GPA and Cumulative GPA (CGPA) quickly and accurately
 ---
 
 <!-- Footer: Minimal & Clean -->
-<p align="center">
-  <sub>© 2025 Mutahhar Ahmad — All rights reserved.</sub>
-</p>
+
