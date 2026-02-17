@@ -17,7 +17,7 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 - [About Me](#about-me)
 - [Skills](#️-skills)
 - [My GitHub Repositories](#-my-github-repositories)
@@ -29,14 +29,14 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 ---
 
 ## About Me:
-- 🎓 **Full Name:** Mutahhar Ahmad
-- 🏛️ **University:** Punjab University College of Information Technology (PUCIT - FCIT)
-- 📚 **Department:** BS Data Science
-- 🎖️ PUAN Member & U.S. Access Program Alumnus  
-- 📊 Passionate about **Data Visualization & Analytics**  
-- 🎨 Data Science enthusiast who loves turning raw data into meaningful insights
-- 🧠 Always learning something new in tech and exploring innovative solutions
-- 🎯 **Goal:** To become a skilled Data Scientist and contribute to impactful projects that solve real-world problems
+-  **Full Name:** Mutahhar Ahmad
+-  **University:** Punjab University College of Information Technology (PUCIT - FCIT)
+-  **Department:** BS Data Science
+-  PUAN Member & U.S. Access Program Alumnus  
+-  Passionate about **Data Visualization & Analytics**  
+-  Data Science enthusiast who loves turning raw data into meaningful insights
+-  Always learning something new in tech and exploring innovative solutions
+-  **Goal:** To become a skilled Data Scientist and contribute to impactful projects that solve real-world problems
 
 ---
 
@@ -107,7 +107,7 @@ It helps calculate Semester GPA and Cumulative GPA (CGPA) quickly and accurately
 - [ ] Build 10+ Data Science projects
 - [ ] Contribute to open-source projects
 - [ ] Learn Machine Learning and AI
-- [x] Get internship in Data Science field
+- [] Get internship in Data Science field
 - [ ] Master advanced analytics techniques
 
 ---
