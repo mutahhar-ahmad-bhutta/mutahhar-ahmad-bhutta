@@ -11,7 +11,7 @@
 
 Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or Anything Else.                 
 
-<!-- <img src="https://komarev.com/ghpvc/?username=mutahharbhutta&style=flat&color=yellow" alt="Profile views" /> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=mutahhar-ahmad-bhutta&style=flat&color=yellow" alt="Profile views" /> -->
 
 </div>
 
@@ -78,11 +78,11 @@ Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or An
 
 Here are some of my notable projects:
 
-### 1. [GPA & CGPA Calculator](https://mutahharbhutta.github.io/pucit-cgpa-calculator/)
+### 1. [GPA & CGPA Calculator](https://mutahhar-ahmad-bhutta.github.io/pucit-cgpa-calculator/)
 > "The GPA & CGPA Calculator is a lightweight, responsive, and interactive web application for students.
 It helps calculate Semester GPA and Cumulative GPA (CGPA) quickly and accurately while offering a fun, personalized, and visually appealing experience."
 
-### 2. [WorkBurst](https://mutahharbhutta.github.io/WorkBurst)
+### 2. [WorkBurst](https://mutahhar-ahmad-bhutta.github.io/WorkBurst)
 > "A comprehensive task management system designed for students to track assignments, quizzes, and lab work with advanced features including weekly grouping, multiple themes, timetable integration, and notification support."
 > 
 
@@ -90,11 +90,11 @@ It helps calculate Semester GPA and Cumulative GPA (CGPA) quickly and accurately
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutahharbhutta&theme=transparent&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-ahmad-bhutta&theme=transparent&hide_border=true&show_icons=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=mutahharbhutta&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mutahhar-ahmad-bhutta&theme=transparent&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahharbhutta&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-ahmad-bhutta&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -125,7 +125,7 @@ It helps calculate Semester GPA and Cumulative GPA (CGPA) quickly and accurately
 ## 🐍 Mutahhar's Contribution Snake Game:
 
 <p align="center"> 
-<img src="https://github.com/mutahharbhutta/mutahharbhutta/blob/output/github-snake.svg" alt="snake gif" />
+<img src="https://github.com/mutahhar-ahmad-bhutta/mutahhar-ahmad-bhutta/blob/output/github-snake.svg" alt="snake gif" />
 </p>
   
 ---
@@ -145,7 +145,7 @@ It helps calculate Semester GPA and Cumulative GPA (CGPA) quickly and accurately
   <a href="https://linkedin.com/in/mutahhar-ahmad-28943a36a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/mutahharbhutta">
+  <a href="https://x.com/mutahhar-ahmad-bhutta">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
@@ -153,4 +153,3 @@ It helps calculate Semester GPA and Cumulative GPA (CGPA) quickly and accurately
 ---
 
 <!-- Footer: Minimal & Clean -->
-
