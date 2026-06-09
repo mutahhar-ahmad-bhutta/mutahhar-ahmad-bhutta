@@ -1,155 +1,182 @@
-<!-- 💙 All-Blue Gradient Welcome Banner -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0:001f3f,20:003f7f,40:005fbf,60:007bff,80:339CFF,100:66B2FF" alt="Welcome Banner" />
-</p> -->
-
 <div align="center">
-<h1 align="center">
-<b>Hi , I'm Mutahhar Ahmad </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
- 
-**BS Data Science Student | PUAN Member (U.S. Access Alumnus) | Turning Data into Visual Impact**  
 
-Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or Anything Else.                 
+<!-- Animated typing header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mutahhar+Ahmad+%F0%9F%91%8B;BS+Data+Science+%40+PUCIT;Data+Scientist+in+the+Making;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
+</a>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=mutahhar-ahmad-bhutta&style=flat&color=yellow" alt="Profile views" /> -->
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mutahhar-ahmad-bhutta&style=flat-square&color=4A90D9&label=Profile+Views)](https://github.com/mutahhar-ahmad-bhutta)
+[![GitHub followers](https://img.shields.io/github/followers/mutahhar-ahmad-bhutta?style=flat-square&color=4A90D9&label=Followers)](https://github.com/mutahhar-ahmad-bhutta?tab=followers)
 
 </div>
 
 ---
 
-## Table of Contents
-- [About Me](#about-me)
-- [Skills](#️-skills)
-- [My GitHub Repositories](#-my-github-repositories)
-- [GitHub Stats](#-github-stats)
-- [My Goals](#-my-goals)
-- [Projects & Experience](#-projects--experience)
-- [Let's Connect](#-lets-connect)
+## 👨‍💻 About Me
+
+```python
+mutahhar = {
+    "name"       : "Mutahhar Ahmad",
+    "university" : "PUCIT – Punjab University College of Information Technology",
+    "degree"     : "BS Data Science",
+    "location"   : "Lahore, Pakistan 🇵🇰",
+    "community"  : "PUAN Member | U.S. Access Program Alumnus",
+    "interests"  : ["Data Visualization", "Analytics", "Machine Learning", "Web Dev"],
+    "goal"       : "Solving real-world problems through the power of data",
+    "email"      : "mutahharbhutta3000@gmail.com",
+}
+```
 
 ---
 
-## About Me:
--  **Full Name:** Mutahhar Ahmad
--  **University:** Punjab University College of Information Technology (PUCIT - FCIT)
--  **Department:** BS Data Science
--  PUAN Member & U.S. Access Program Alumnus  
--  Passionate about **Data Visualization & Analytics**  
--  Data Science enthusiast who loves turning raw data into meaningful insights
--  Always learning something new in tech and exploring innovative solutions
--  **Goal:** To become a skilled Data Scientist and contribute to impactful projects that solve real-world problems
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Data Science & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 🛠️ Skills:
+## 🚀 Featured Projects
 
-### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Data Science & Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data_Visualization-FF6B6B?style=for-the-badge&logo=chart-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-### Design Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 GPA & CGPA Calculator</h3>
+      <p align="center">
+        <a href="https://mutahhar-ahmad-bhutta.github.io/pucit-cgpa-calculator/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-4A90D9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p>A lightweight, responsive, and interactive web app for PUCIT students to calculate Semester GPA and CGPA quickly — with a fun, personalized experience.</p>
+      <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">✅ WorkBurst</h3>
+      <p align="center">
+        <a href="https://mutahhar-ahmad-bhutta.github.io/WorkBurst" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-4A90D9?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p>A comprehensive student task manager for tracking assignments, quizzes, and labs — with weekly grouping, multiple themes, timetable integration, and notification support.</p>
+      <p><strong>Stack:</strong> HTML · CSS · JavaScript</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 My GitHub Repositories
+## 📈 GitHub Stats
 
-Here are some of my notable projects:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-ahmad-bhutta&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-ahmad-bhutta&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-### 1. [GPA & CGPA Calculator](https://mutahhar-ahmad-bhutta.github.io/pucit-cgpa-calculator/)
-> "The GPA & CGPA Calculator is a lightweight, responsive, and interactive web application for students.
-It helps calculate Semester GPA and Cumulative GPA (CGPA) quickly and accurately while offering a fun, personalized, and visually appealing experience."
-
-### 2. [WorkBurst](https://mutahhar-ahmad-bhutta.github.io/WorkBurst)
-> "A comprehensive task management system designed for students to track assignments, quizzes, and lab work with advanced features including weekly grouping, multiple themes, timetable integration, and notification support."
-> 
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-ahmad-bhutta&theme=transparent&hide_border=true&show_icons=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=mutahhar-ahmad-bhutta&theme=transparent&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-ahmad-bhutta&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mutahhar-ahmad-bhutta&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 🎯 My Goals:
+## 🏆 GitHub Trophies
 
-- [x] Learn Python for Data Science
-- [x] Master Data Visualization with Power BI
-- [x] Complete U.S. Access Program
-- [ ] Build 10+ Data Science projects
-- [ ] Contribute to open-source projects
-- [ ] Learn Machine Learning and AI
-- [] Get internship in Data Science field
-- [ ] Master advanced analytics techniques
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mutahhar-ahmad-bhutta&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
-## 💼 Projects & Experience:
+## 🎯 2025 Roadmap
 
-| Project/Role | Description | Technologies | Year |
-|-------------|-------------|--------------|------|
-| **Data Visualization Dashboard** | Created interactive dashboards for business analytics | Power BI, Excel | 2024 |
-| **PUAN Member** | U.S. Access Program Alumnus - Leadership & Community Service | Leadership, Communication | 2023-2024 |
-| **Web Development Projects** | Built responsive websites and web applications | HTML, CSS, JavaScript | 2025 |
+| Status | Goal |
+|--------|------|
+| ✅ | Learn Python for Data Science |
+| ✅ | Master Data Visualization with Power BI |
+| ✅ | Complete U.S. Access Program |
+| ✅ | Build responsive web applications |
+| 🔄 | Build 10+ Data Science projects |
+| 🔄 | Learn Machine Learning & Deep Learning |
+| ⏳ | Land a Data Science internship |
+| ⏳ | Contribute to open-source projects |
+| ⏳ | Master advanced analytics & NLP |
 
 ---
 
-## 🐍 Mutahhar's Contribution Snake Game:
+## 💼 Experience & Projects
 
-<p align="center"> 
-<img src="https://github.com/mutahhar-ahmad-bhutta/mutahhar-ahmad-bhutta/blob/output/github-snake.svg" alt="snake gif" />
-</p>
-  
+| Year | Role / Project | Description | Stack |
+|------|---------------|-------------|-------|
+| 2025 | **Web Development** | Built responsive web apps and student tools | HTML, CSS, JS |
+| 2024 | **Data Viz Dashboard** | Interactive business analytics dashboards | Power BI, Excel |
+| 2023–24 | **PUAN – U.S. Access Alumnus** | Leadership & community development program | — |
+
 ---
 
-## 💭 Quote That Inspires Me:
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://github.com/mutahhar-ahmad-bhutta/mutahhar-ahmad-bhutta/blob/output/github-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+## 💬 Quote That Drives Me
+
+<div align="center">
 
 > *"Data is the new oil. It's valuable, but if unrefined it cannot really be used."*
-> — Clive Humby
+> — **Clive Humby**
+
+</div>
 
 ---
 
-## 🌐 Let's Connect:
-<p align="center">
-  <a href="mailto:mutahharbhutta3000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mutahhar-ahmad-28943a36a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/mutahhar-ahmad-bhutta">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutahharbhutta3000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mutahhar-ahmad-28943a36a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mutahhar-ahmad-bhutta)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mutahhar-ahmad-bhutta)
+
+<br/>
+
+**Open to collaborations, internships, and interesting data projects.**
+Feel free to reach out at [mutahharbhutta3000@gmail.com](mailto:mutahharbhutta3000@gmail.com) 💙
+
+</div>
 
 ---
 
-<!-- Footer: Minimal & Clean -->
+<div align="center">
+  <sub>Made with ❤️ by Mutahhar Ahmad · Last updated 2025</sub>
+</div>
