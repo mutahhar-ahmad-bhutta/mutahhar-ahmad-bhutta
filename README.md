@@ -11,7 +11,7 @@
 
 Email Me ✉️ **mutahharbhutta3000@gmail.com** For Collaboration/Project or Anything Else.                 
 
-<img src="https://komarev.com/ghpvc/?username=mutahhar-ahmad-bhutta&style=flat&color=yellow" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=mutahhar-ahmad-bhutta&style=flat&color=yellow" alt="Profile views" /> -->
 
 </div>
 
